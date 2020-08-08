@@ -18,3 +18,4 @@ para desfazer coisas recem feitas ( no comit atual)
 
 criar ramos
 git checkout -b ramo
+d
