@@ -6,7 +6,7 @@ code .
 
 git checkout xxxxx vai para xxxx
 
-git log --graph
+git log --graph --all
 git status
 
 git commit -am " frase"
