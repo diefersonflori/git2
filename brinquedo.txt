@@ -6,7 +6,7 @@ code .
 
 git checkout xxxxx vai para xxxx
 
-git graph
+git log --graph
 git status
 
 git commit -am " frase"
@@ -16,5 +16,5 @@ git add -A
 git restore tasks/templates/base.html
 para desfazer coisas recem feitas ( no comit atual)
 
-criar ramo
+criar ramos
 git checkout -b ramo
