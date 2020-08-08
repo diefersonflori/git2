@@ -1,3 +1,20 @@
-asddddddddddd
-fdpofmew
-entendendo o head
+git branch- mostra onde estou atualmente
+git checkout master- as vezes ao me mover no branch, perco a linha, entao esse serve para linkar no inicio
+git log --online mostra todo mundo que existe ate esse ponto
+em que to apontando
+code .
+
+git checkout xxxxx vai para xxxx
+
+git graph
+git status
+
+git commit -am " frase"
+
+git add -A
+
+git restore tasks/templates/base.html
+para desfazer coisas recem feitas ( no comit atual)
+
+criar ramo
+git checkout -b ramo
