@@ -18,4 +18,14 @@ para desfazer coisas recem feitas ( no comit atual)
 
 criar ramos
 git checkout -b ramo
-d
+
+verificar se existe um repositorio remoto
+git remote
+
+para criar um repositorio remoto
+git remote add origin https://github.com/diefersonflori/git2.git
+esse comando faz uma ligacao com o repositorio remoto do linka
+
+se clicar mais uma vez git remote- aparece origin
+git push -u origin master
+envia par o site
