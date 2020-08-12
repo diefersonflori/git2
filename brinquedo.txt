@@ -4,8 +4,9 @@ git log --online mostra todo mundo que existe ate esse ponto
 em que to apontando
 code .
 
-ggggggggggggggggggggggggggggggggg
 
+inseri isso
+smfdpm
 git checkout xxxxx vai para xxxx
 
 git log --graph --all
