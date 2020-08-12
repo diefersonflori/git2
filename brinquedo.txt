@@ -29,3 +29,5 @@ esse comando faz uma ligacao com o repositorio remoto do linka
 se clicar mais uma vez git remote- aparece origin
 git push -u origin master
 envia par o site
+
+smfapso
